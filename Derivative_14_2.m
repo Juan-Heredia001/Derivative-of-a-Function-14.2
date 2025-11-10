@@ -16,4 +16,4 @@ title('Original Functtion')
 subplot(2,1,2)
 plot(x(2:n-1),der,Color='r')
 grid on
-title('Derivative Function')
+title('Derivative of the Function')
